@@ -117,7 +117,7 @@
                     android:id="@+id/imageView51"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
-                    app:srcCompat="@drawable/child" />
+                    app:srcCompat="@drawable/swim" />
 
                 <TextView
                     android:id="@+id/textView31"
@@ -148,7 +148,7 @@
                     android:layout_marginLeft="20dp"
                     android:layout_marginRight="20dp"
                     android:scaleType="centerCrop"
-                    app:srcCompat="@drawable/swim" />
+                    app:srcCompat="@drawable/child" />
 
                 <TextView
                     android:id="@+id/textView51"
